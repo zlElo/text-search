@@ -11,9 +11,9 @@ Alphabet zu sortieren oder bereits notierte Domains zu erkennen und anzuzeigen.
 
 Infos:
 
-Programming language: Python
-Extra (via pip installed) Libarys: 0
-files: 4 (program.py (main), errors_def.py, list_function.py, text_search.py)
+- Programming language: Python
+- Extra (via pip installed) Libarys: 0
+- files: 4 (program.py (main), errors_def.py, list_function.py, text_search.py)
 
 -------------------------------------------------------------------------------------------------------------------
 
